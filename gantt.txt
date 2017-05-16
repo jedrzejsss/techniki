@@ -4,4 +4,4 @@
 4. Napisanie i przetestowanie programu zbieraj¹cego dane od u¿ytkownika. 4h
 5. Zapoznanie siê z metodami tworzenia modelu u³o¿enia r¹k na klawiaturze. 4h
 6. Napisanie programu tworz¹cego model u³o¿enia r¹k. 7h.
-7. Stworzenie dokumentacji. 2h
+7. Stworzenie dokumentacji. 3h
