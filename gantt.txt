@@ -1,0 +1,7 @@
+1. Zapoznanie siê z problematyk¹ zadania. 1h
+2. Wyszukanie informacji jakie dane potrzebne s¹ do utworzenia modelu u³o¿enia r¹k na klawiaturze. 3h
+3. Wybór technologii. 1h
+4. Napisanie i przetestowanie programu zbieraj¹cego dane od u¿ytkownika. 4h
+5. Zapoznanie siê z metodami tworzenia modelu u³o¿enia r¹k na klawiaturze. 4h
+6. Napisanie programu tworz¹cego model u³o¿enia r¹k. 7h.
+7. Stworzenie dokumentacji. 2h
